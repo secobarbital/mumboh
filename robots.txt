@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://secobarbital.github.io/mumboh/sitemap.xml 
